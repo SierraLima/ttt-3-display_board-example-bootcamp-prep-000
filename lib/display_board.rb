@@ -5,4 +5,5 @@ def display_board
   pipe = |
   dash = -----------
   
+  print cell+pipe+cell+pipe+cell
 end
