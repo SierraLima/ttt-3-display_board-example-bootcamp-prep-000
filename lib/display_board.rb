@@ -3,10 +3,6 @@ def display_board
   
   cell = "   "
   pipe = |
-  dash = 
-  print ""   "|"   "|"   ""
- print "-----------"
- print ""   "|"   "|"   ""
- print "-----------"
- print ""   "|"   "|"   ""
+  dash = -----------
+  
 end
