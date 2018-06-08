@@ -2,7 +2,8 @@
 def display_board 
   
   cell = "   "
-  pipe = 
+  pipe = |
+  dash = 
   print ""   "|"   "|"   ""
  print "-----------"
  print ""   "|"   "|"   ""
