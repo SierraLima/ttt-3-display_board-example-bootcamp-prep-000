@@ -2,8 +2,8 @@
 def display_board 
   
   cell = "   "
-  pipe = |
-  dash = -----------
+  pipe = "|"
+  dash = "-----------"
   
   print cell+pipe+cell+pipe+cell
 end
